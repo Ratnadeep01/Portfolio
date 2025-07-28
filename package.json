@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://Ratnadeep01.github.io/portfolio",
+  "homepage": "https://ratnadeep01.github.io/Portfolio",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
